@@ -2,6 +2,9 @@
   * PHP Dasar
   * Ecommerce  
 2. JS
+  * JS Dasar
 3. Vue
 4. CSS
+  * CSS Dasar
 5. Tauhid
+6. Angular
