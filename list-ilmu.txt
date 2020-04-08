@@ -1,0 +1,6 @@
+1. Laravel
+  * PHP Dasar
+  * Ecommerce  
+2. JS
+3. Vue
+4. CSS
